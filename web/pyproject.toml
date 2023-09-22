@@ -13,6 +13,7 @@ name = "docker-test"
 version = "0.0.1"
 dependencies = [
   "Flask",
+  "gunicorn",
   "redis",
 ]
 
